@@ -1,0 +1,50 @@
+{"hotels": [
+    {
+        "name": "Costa Adeje Gran Hotel",
+        "location": "Costa Adeje, Tenerife",
+        "rating": 5,
+        "price": 1136.50,
+        "imageURL": "images/image_01.png",
+        "date": "3 July 2014",
+        "numberOfDays": "7 days",
+        "departureLocation": "East Midlands",
+        "numberOfPeople": {
+            "adults": "2 adults",
+            "children": "2 children",
+            "infants": 1
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a mollis dolor, in posuere magna. Donec laoreet dolor id tellus gravida, sed tincidunt mauris semper. Proin iaculis at purus varius porta. Nulla tincidunt pulvinar justo nec tristique. In nisi lacus, vestibulum et venenatis ut, pellentesque ut massa."
+    },
+    {
+        "name": "Aguamarina Golf Hotel and Apartments",
+        "location": "Costa Adeje, Tenerife",
+        "rating": 4,
+        "price": 499.99,
+        "imageURL": "images/image_02.png",
+        "date": "3 July 2014",
+        "numberOfDays": "7 days",
+        "departureLocation": "Manchester",
+        "numberOfPeople": {
+            "adults": "2 adults",
+            "children": "2 children",
+            "infants": 0
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a mollis dolor, in posuere magna. Donec laoreet dolor id tellus gravida, sed tincidunt mauris semper. Proin iaculis at purus varius porta. Nulla tincidunt pulvinar justo nec tristique. In nisi lacus, vestibulum et venenatis ut, pellentesque ut massa."
+    },
+    {
+        "name": "Laguna Park II",
+        "location": "Costa Adeje, Tenerife",
+        "rating": 3,
+        "price": 696.80,
+        "imageURL": "images/image_03.png",
+        "date": "27 May 2014",
+        "numberOfDays": "7 days",
+        "departureLocation": "Liverpool",
+        "numberOfPeople": {
+            "adults": "2 adults",
+            "children": "1 child",
+            "infants": 0
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer a mollis dolor, in posuere magna. Donec laoreet dolor id tellus gravida, sed tincidunt mauris semper. Proin iaculis at purus varius porta. Nulla tincidunt pulvinar justo nec tristique. In nisi lacus, vestibulum et venenatis ut, pellentesque ut massa."
+    }
+]}
